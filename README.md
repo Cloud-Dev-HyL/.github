@@ -1,2 +1,2 @@
 
-## Repositorio de configuraciones globales de comunidad.
+## Repositorio de configuraciones globales del equipo.
