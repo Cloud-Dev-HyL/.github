@@ -30,7 +30,7 @@ type: UserStory
 - **Dado que** (( completar )), **Cuando** (( completar )), **Entonces**  (( completar )).
 - **Dado que** (( completar )), **Cuando** (( completar )), **Entonces**  (( completar )).
 
-### Tareas
+### Historias Técnicas (Tareas)
 
 ### Desarrollo [ ? h ]
 
