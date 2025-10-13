@@ -8,7 +8,7 @@ title: "[HT]: Describe brevemente la historia aquí"
 labels: 'to do'
 # Etiquetas que se aplicarán automáticamente al issue.
 title: (FEAT/FIX/???) | S??? | ??? ..
-type: UserTech
+type: TechStory
 ---
 
 ## Historia Técnica
