@@ -1,8 +1,0 @@
-# .github/ISSUE_TEMPLATE/config.yml
-
-# Deshabilita la opción de abrir un issue completamente en blanco.
-# Esto fuerza a los usuarios a elegir una de las plantillas que has definido.
-blank_issues_enabled: false
-
-# Enlaces de contacto adicionales que aparecerán en el selector de plantillas.
-# Puedes usarlos para dirigir a los usuarios fuera de GitHub Issues.
